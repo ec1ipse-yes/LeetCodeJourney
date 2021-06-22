@@ -14,5 +14,5 @@ Recursion: loop the whole binary tree and collect values in left leaves.
 
 ### Implementation
 
-- [X] Golang
-- [X] Cpp
+- [X] [Golang](./solution.go)
+- [X] [Cpp](./solution.cpp)
