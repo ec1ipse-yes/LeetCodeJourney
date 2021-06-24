@@ -16,7 +16,7 @@ Given the root of a binary, return the average values of nodes on each level in 
 
 ### Solution
 
-1. \[DFS(with recursion)\]
-2. \[BFS(with stack)\]
+1. DFS(with recursion)
+2. BFS(with stack)
 
 ### Implementation
