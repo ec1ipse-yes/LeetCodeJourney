@@ -3,7 +3,7 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=macos,windows,c++,go,python,java,c,vim,sublimetext,visualstudiocode,git
 
 # Customized Config
-./src/solution.md
+src/solution.md
 
 ### C ###
 # Prerequisites
