@@ -13,17 +13,17 @@ LeetCodeJourney
 ├── TwoPointers.md
 ├── ...
 └── src
-    ├── 141.LinkedListCycle
+    ├── 141.Linked-List-Cycle
     │   ├── solution.cpp
     │   ├── solution.go
     │   └── solution.md        [ -> Explain thoughts about this problem.]
-    ├── 404.SumofLeftLeaves
+    ├── 404.Sum-of-Left-Leaves
     │   ├── solution.cpp
     │   ├── solution.go
     │   └── solution.md
-    ├── 637.AverageofLevelsinBinaryTree
+    ├── 637.Average-of-Levels-in-Binary-Tree
     │   └── solution.md
-    ├── 655.PrintBinaryTree
+    ├── 655.Print-Binary-Tree
     │   ├── solution.cpp
     │   ├── solution.go
     │   └── solution.md
