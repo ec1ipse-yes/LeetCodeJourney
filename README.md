@@ -8,15 +8,15 @@ The structure of repository is:
 ```txt
 LeetCodeJourney
 ├── LinkedList.md
-├── README.md       [Main markdown file for repo and classification.]
-├── Tree.md         [Markdown file for a specific kind of problem.]
+├── README.md         [ -> Main markdown file for repo and classification.]
+├── Tree.md           [ -> Markdown file for a specific kind of problem.]
 ├── TwoPointers.md
 ├── ...
 └── src
     ├── 141.LinkedListCycle
     │   ├── solution.cpp
     │   ├── solution.go
-    │   └── solution.md  [Explain thoughts about this problem.]
+    │   └── solution.md        [ -> Explain thoughts about this problem.]
     ├── 404.SumofLeftLeaves
     │   ├── solution.cpp
     │   ├── solution.go
@@ -34,4 +34,4 @@ LeetCodeJourney
 
 - [Linked List](./LinkedList.md)
 - [Two Pointers](./TwoPointers.md)
-- [Binary Tree](./Tree.md)
+- [Tree](./Tree.md)
