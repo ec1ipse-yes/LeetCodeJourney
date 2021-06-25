@@ -34,4 +34,4 @@ LeetCodeJourney
 
 - [Linked List](./LinkedList.md)
 - [Two Pointers](./TwoPointers.md)
-- [Tree](./Tree.md)
+- [Tree && Binary Tree](./Tree.md)

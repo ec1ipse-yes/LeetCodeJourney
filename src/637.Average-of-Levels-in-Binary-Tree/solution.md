@@ -20,3 +20,6 @@ Given the root of a binary, return the average values of nodes on each level in 
 2. BFS(with stack)
 
 ### Implementation
+
+- [X] [Golang](./solution.go)
+- [X] [Cpp](./solution.cpp)
