@@ -16,12 +16,10 @@ LeetCodeJourney
     ├── 141.Linked-List-Cycle
     │   ├── solution.cpp
     │   ├── solution.go
-    │   └── solution.md        [ -> Explain thoughts about this problem.]
+    │   └── solution.md          [ -> Explain thoughts about this problem.]
     ├── 404.Sum-of-Left-Leaves
     │   ├── solution.cpp
     │   ├── solution.go
-    │   └── solution.md
-    ├── 637.Average-of-Levels-in-Binary-Tree
     │   └── solution.md
     ├── 655.Print-Binary-Tree
     │   ├── solution.cpp
@@ -32,6 +30,9 @@ LeetCodeJourney
 
 ## Classification
 
+- [Array](./Array.md)
 - [Linked List](./LinkedList.md)
 - [Two Pointers](./TwoPointers.md)
+- [Hash Table](./HashTable.md)
 - [Tree && Binary Tree](./Tree.md)
+- [Sorting](./Sorting.md)
