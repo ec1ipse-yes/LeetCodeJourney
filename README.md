@@ -32,7 +32,11 @@ LeetCodeJourney
 
 - [Array](./Array.md)
 - [Linked List](./LinkedList.md)
-- [Two Pointers](./TwoPointers.md)
+- [String]()
+- [Two Pointers && Sliding Window](./TwoPointers.md)
+- [Stack && Queue]()
 - [Hash Table](./HashTable.md)
 - [Tree && Binary Tree](./Tree.md)
+- [Dynamic Programming]()
 - [Sorting](./Sorting.md)
+- [Searching]()
